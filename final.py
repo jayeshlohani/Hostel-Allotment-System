@@ -563,7 +563,7 @@ T=BST()                            #TREE1 (KEY IS ROOM NUMBER)
 
 T1=BST()						   #TREE2 (KEY IS REG.NUMBER)
 
-
+#Main function
 def main():
 
 	f=open("data4.txt","r")
